@@ -1,0 +1,41 @@
+body {
+  background: black;
+  color: white;
+  font-family: Helvatica;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: black;
+  padding: 20 px;
+<<<<<<< HEAD
+}
+
+ul{
+  list-style-type: none;
+=======
+>>>>>>> fbe282126d001da964b3b153af7b980f6d525946
+}
+
+.child1 {
+  background: black;
+  color: white;
+}
+.child2 {
+  background: black;
+  color: white;
+}
+.child3 {
+  background: black;
+  color: white;
+}
+
+
+#main-footer{
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+	margin-top: 40px;
+}
